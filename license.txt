@@ -1,0 +1,9 @@
+CC0
+
+model + textures
+
+by MisterE
+
+the animations are as follows:
+0-20:bounce (walk)
+40-130:rest (standing still with a blink of the eyes)
